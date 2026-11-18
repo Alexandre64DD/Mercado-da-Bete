@@ -29,3 +29,8 @@ Projeto
 
 
 Este sistema é um protótipo inicial de um MVP acadêmico.
+
+Melhorias futuras
+- Implementar banco de dados.
+- Adicionar autenticação de funcionários.
+- Melhorar o acompanhamento das entregas.
